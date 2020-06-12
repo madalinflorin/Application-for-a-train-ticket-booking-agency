@@ -1,0 +1,16 @@
+View train list,Search train,Login,Train:,Enter id,Choose language:,Home page
+Departure station,Arrival station,Time,Departure station - Arrival station,Choose Criterion,Departure station,Arrival station,Time,Choose,View trains
+List of trains
+Username,Password,Login,Login
+Insert,Select,Update,Delete,Criterion,Administrator Page
+View train list,Search train,CRUD operations,Sale ticket,View statistics,Save reports,Train:,Enter id,Employee page
+Insert,Select,Update,Delete,Train,Ticket,Choose operation,on the object,Object ID,CRUD operations
+ID,Departure station,Arrival station,Time,Empty seats,Price,CRUD operations
+ID ticket,Traveler name,Traveler first name,Telephone,E-mail,CNP,Train ID,CRUD operations
+Name,First name,Telephone,E-mail,CNP,Password,Salary,Work programme,Administrator,CRUD operations
+Enter your e-mail address,CRUD operations
+Departure station,Arrival station,Time,Seats,Price,CRUD operations
+Name,First name,Telephone,E-mail,CNP,Train ID,Price,CRUD operations
+Name,First name,Telephone,CNP,Password,Salary,Work programme,Administrator,CRUD operations
+Train statistics,Graph,Criterion,Value,Departure station,Arrival station,Price
+No results found, No results with this ID, Enter an integer, Wrong name or password, No results, There may be only one train with this id, ID or number of seats or race duration or price have invalid values, ID or duration or no. places or price have invalid values, There cannot be 2 tickets with the same ID, incorrect train ID, ticket ID or CNP or incorrect train ID, ticket ID or CNP or train ID or invalid price , Saved successfully, Chart generated successfully, No employee was found with this user, The table is empty, The user you want to delete does not exist, This user already exists, CNP or salary have wrong value

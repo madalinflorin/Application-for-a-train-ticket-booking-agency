@@ -1,0 +1,16 @@
+Vizualizare lista trenuri,Cautare tren,Conectare,Trenul:,Introdu id,Alegere limba:,Pagina principala
+Statie plecare,Statie sosire,Durata,Statie plecare - Statie destinatie,Alegere criteriu,Statie plecare,Statie sosire,Durata,Alege,Vizualizare trenuri
+Lista trenuri
+Nume,Parola,Autentificare,Autentificare
+Inserare,Selectare,Modificare,Stergere,Criteriu,Pagina Administrator
+Vizualizare lista trenuri,Cautare tren,Operatii CRUD,Vanzare bilet,Vizualizare statistici,Salvare rapoarte,Trenul:,Introdu id,Pagina angajat
+Inserare,Selectare,Modificare,Stergere,Tren,Bilet,Alegere operatie,asupra obiectului,ID-ul obiectului,Operatii CRUD
+ID,Statie plecare,Statie sosire,Durata,Locuri libere,Pret,Operatii CRUD
+ID bilet,Nume calator,Prenume calator,Numar telefon,E-mail,CNP,ID tren,Operatii CRUD
+Nume,Prenume,Nr.tel,E-mail,CNP,Parola,Salariu,Program de lucru,Administrator,Operatii CRUD
+Introdu adresa de e-mail,Operatii CRUD
+Statie plecare,Statie sosire,Durata,Locuri,Pret,Operatii CRUD
+Nume,Prenume,Nr.tel,E-mail,CNP,ID tren,Pret,Operatii CRUD
+Nume,Prenume,Nr.tel,CNP,Parola,Salariu,Program de lucru,Administrator,Operatii CRUD
+Statistici trenuri,Grafic,Criteriu,Valoare,Statie Plecare,Statie sosire,Pret
+Nu a fost gasit niciun rezultat,Nici un rezultat cu acest ID,Introdu un numar intreg,Nume sau parola gresita,Nici un rezultat,Poate exista un singur tren cu acest id,ID-ul sau numarul de locuri sau durata cursei sau pretul au valori invalide,ID-ul sau durata sau nr.locuri sau pret au valori invalide,Nu pot exista 2 bilete cu acelas ID,ID tren incorect,ID bilet sau CNP sau ID tren incorect,ID bilet sau CNP sau ID tren sau pret invalid,Salvarea a avut loc cu succes,Diagrama generata cu succes,Nu a fost gasit niciun angajat cu user-ul acesta,Tabelul este gol,User-ul pe care vrei sa il stergi nu exista,Acest user exista deja,CNP sau salariu au valoarea gresita

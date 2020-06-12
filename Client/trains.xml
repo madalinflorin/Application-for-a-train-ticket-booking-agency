@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>650</int>
+    </void>
+    <void property="idTren">
+     <int>3</int>
+    </void>
+    <void property="locuriLibere">
+     <int>35</int>
+    </void>
+    <void property="pret">
+     <float>40.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Craiova</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>1800</int>
+    </void>
+    <void property="idTren">
+     <int>5</int>
+    </void>
+    <void property="locuriLibere">
+     <int>94</int>
+    </void>
+    <void property="pret">
+     <float>50.8</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Suceava</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Aiud</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>102</int>
+    </void>
+    <void property="idTren">
+     <int>7</int>
+    </void>
+    <void property="locuriLibere">
+     <int>49</int>
+    </void>
+    <void property="pret">
+     <float>9.4</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Vaslui</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Iasi</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>320</int>
+    </void>
+    <void property="idTren">
+     <int>13</int>
+    </void>
+    <void property="locuriLibere">
+     <int>24</int>
+    </void>
+    <void property="pret">
+     <float>49.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Craiova</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>650</int>
+    </void>
+    <void property="idTren">
+     <int>15</int>
+    </void>
+    <void property="locuriLibere">
+     <int>12</int>
+    </void>
+    <void property="pret">
+     <float>40.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Pitesti</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>330</int>
+    </void>
+    <void property="idTren">
+     <int>33</int>
+    </void>
+    <void property="locuriLibere">
+     <int>84</int>
+    </void>
+    <void property="pret">
+     <float>40.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Craiova</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>170</int>
+    </void>
+    <void property="idTren">
+     <int>51</int>
+    </void>
+    <void property="locuriLibere">
+     <int>103</int>
+    </void>
+    <void property="pret">
+     <float>14.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Pitesti</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>540</int>
+    </void>
+    <void property="idTren">
+     <int>63</int>
+    </void>
+    <void property="locuriLibere">
+     <int>5</int>
+    </void>
+    <void property="pret">
+     <float>85.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Craiova</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Cluj-Napoca</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>333</int>
+    </void>
+    <void property="idTren">
+     <int>69</int>
+    </void>
+    <void property="locuriLibere">
+     <int>54</int>
+    </void>
+    <void property="pret">
+     <float>131.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Gheorgheni</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Budapesta</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>480</int>
+    </void>
+    <void property="idTren">
+     <int>75</int>
+    </void>
+    <void property="locuriLibere">
+     <int>111</int>
+    </void>
+    <void property="pret">
+     <float>60.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Mangalia</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>444</int>
+    </void>
+    <void property="idTren">
+     <int>77</int>
+    </void>
+    <void property="locuriLibere">
+     <int>53</int>
+    </void>
+    <void property="pret">
+     <float>55.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Budapeste</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Targu-Jiu</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>650</int>
+    </void>
+    <void property="idTren">
+     <int>83</int>
+    </void>
+    <void property="locuriLibere">
+     <int>44</int>
+    </void>
+    <void property="pret">
+     <float>40.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Craiova</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>333</int>
+    </void>
+    <void property="idTren">
+     <int>93</int>
+    </void>
+    <void property="locuriLibere">
+     <int>69</int>
+    </void>
+    <void property="pret">
+     <float>59.4</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Bucuresti</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Craiova</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>650</int>
+    </void>
+    <void property="idTren">
+     <int>105</int>
+    </void>
+    <void property="locuriLibere">
+     <int>89</int>
+    </void>
+    <void property="pret">
+     <float>40.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Pitesti</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>540</int>
+    </void>
+    <void property="idTren">
+     <int>200</int>
+    </void>
+    <void property="locuriLibere">
+     <int>13</int>
+    </void>
+    <void property="pret">
+     <float>92.35</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Cluj-Napoca</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Iasi</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>125</int>
+    </void>
+    <void property="idTren">
+     <int>300</int>
+    </void>
+    <void property="locuriLibere">
+     <int>86</int>
+    </void>
+    <void property="pret">
+     <float>50.0</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Targu-Jiu</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Craiova</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Tren">
+    <void property="durataInMinute">
+     <int>330</int>
+    </void>
+    <void property="idTren">
+     <int>313</int>
+    </void>
+    <void property="locuriLibere">
+     <int>85</int>
+    </void>
+    <void property="pret">
+     <float>43.8</float>
+    </void>
+    <void property="statieDestinatie">
+     <string>Craiova</string>
+    </void>
+    <void property="statiePlecare">
+     <string>Bucuresti</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

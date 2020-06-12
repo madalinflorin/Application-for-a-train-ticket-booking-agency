@@ -1,0 +1,16 @@
+Voir la liste des trains,Recherche de train,S identifier,Le train:,Entrez l'identifiant,Choix de la langue:,Accueil
+Gare de depart,Gare d arrivee,Duree,Gare de depart - Gare d arrivee,Choix du critere,Gare de depart,Gare d arrivee,Duree,Choisir,Voir les trains
+Liste des trains
+Nom   	,Mot de passe,S identifier,S identifier
+Insertion,Selectionner,Changement,Clair,Critere,Page Administrateur
+Voir la liste des trains,Recherche de train,Operations CRUD,La vente de billets,Voir les statistiques,Enregistrer les rapports,Le train:,Entrez l'identifiant,Page des employes
+Insertion,Selectionner,Changement,Clair,Le train,Billet,Choix d operation,sur l objet,ID d objet,Operations CRUD
+ID,Gare de depart,Gare d arrivee,Duree,Places libres,Prix,Operations CRUD
+ID de billets,Nom du passager,Prenom du passager,Numero de telephone,E-mail,CNP,ID du train,Operations CRUD
+Nom,Prenom,Numero de telephone,E-mail,CNP,Mot de passe,Un salaire,Programme de travail,Administrateur,Operations CRUD
+Entrez votre adresse e-mail,Operations CRUD
+Gare de depart,Gare d arrivee,Duree,Des places,Prix,Operations CRUD
+Nom,Prenom,Numero de telephone,E-mail,CNP,ID du train,Prix,Operations CRUD
+Nom,Prenom,Numero de telephone,CNP,Mot de passe,Un salaire,Programme de travail,Administrateur,Operations CRUD
+Statistiques des trains,Graphique,Critere,Valeur,Gare de depart,Gare d arrivee,Prix
+Aucun resultat trouvé, Aucun resultat avec cet ID, Entrez un entier, Nom ou mot de passe incorrect, Aucun resultat, Il ne peut y avoir qu'un seul train avec cet ID, ID ou nombre de sieges ou la duree de la course ou le prix ont valeurs non valides, ID ou duree ou nombre de places ou prix ont des valeurs non valides, Il ne peut pas y avoir 2 billets avec le meme ID, ID de train incorrect, ID de ticket ou CNP ou ID de train incorrect, ID de ticket ou CNP ou ID de train ou prix invalide , Enregistre avec succes, Graphique genere avec succes, Aucun employe n a ete trouve avec cet utilisateur, La table est vide, L utilisateur que vous souhaitez supprimer n existe pas, Cet utilisateur existe deja, CNP ou salaire ont mauvaise valeur
